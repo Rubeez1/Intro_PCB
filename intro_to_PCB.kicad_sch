@@ -1,0 +1,621 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0d3b5cc8-796e-4bf6-9981-31f427beb9c4")
+	(paper "A4")
+	(lib_symbols)
+	(junction
+		(at 200.66 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5739b36a-ddb7-42ed-b10b-db598f0e36a9")
+	)
+	(bus
+		(pts
+			(xy 200.66 100.33) (xy 204.47 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "017e5d81-ffd6-4048-867f-d7177d6515db")
+	)
+	(bus
+		(pts
+			(xy 259.08 109.22) (xy 259.08 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03cd6f6f-adc4-4f9c-81b6-5442f7240762")
+	)
+	(bus
+		(pts
+			(xy 200.66 60.96) (xy 200.66 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0522bd2b-df61-481b-ba35-85faa4691894")
+	)
+	(bus
+		(pts
+			(xy 254 99.06) (xy 254 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08df337d-a6be-4abb-a996-25269c91e673")
+	)
+	(bus
+		(pts
+			(xy 246.38 92.71) (xy 246.38 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1928c910-c817-43a2-a4d9-b07dccada31d")
+	)
+	(wire
+		(pts
+			(xy 243.84 111.76) (xy 264.16 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d31025-e901-47c6-9b49-d2f8efd1beb7")
+	)
+	(bus
+		(pts
+			(xy 243.84 92.71) (xy 246.38 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2337d9f1-8322-4ede-a696-294a853281ea")
+	)
+	(bus
+		(pts
+			(xy 199.39 100.33) (xy 200.66 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a59cefe-ffcc-4a49-92a1-557b30d15e8d")
+	)
+	(bus
+		(pts
+			(xy 256.54 102.87) (xy 256.54 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c204a32-b155-4b33-913f-98771949b084")
+	)
+	(wire
+		(pts
+			(xy 147.32 100.33) (xy 147.32 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60083167-eb72-4ab4-87ff-42c22607c250")
+	)
+	(bus
+		(pts
+			(xy 203.2 60.96) (xy 200.66 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63dcd4fc-a09f-4fad-802b-25b69bb5be17")
+	)
+	(wire
+		(pts
+			(xy 264.16 54.61) (xy 240.03 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb1dbea-4dbc-4828-a126-cfd030eabc5e")
+	)
+	(bus
+		(pts
+			(xy 139.7 104.14) (xy 156.21 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "750802b1-5566-4639-88e5-bdcdcbbd1ce9")
+	)
+	(bus
+		(pts
+			(xy 256.54 59.69) (xy 240.03 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad19675-ed0d-4a03-90c5-0bf1748bd8a4")
+	)
+	(bus
+		(pts
+			(xy 250.19 64.77) (xy 240.03 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c8c6c25-f289-4f10-aa47-3b2d5d398a68")
+	)
+	(bus
+		(pts
+			(xy 243.84 95.25) (xy 250.19 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d44b03a-fe3c-4366-b861-e4c1e48c4e8a")
+	)
+	(wire
+		(pts
+			(xy 264.16 111.76) (xy 264.16 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a58d1577-80fb-40df-8b1c-9f822b52f5bc")
+	)
+	(bus
+		(pts
+			(xy 243.84 99.06) (xy 254 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae29f574-6116-49e0-8bbc-a0c8cc06f8fe")
+	)
+	(bus
+		(pts
+			(xy 246.38 67.31) (xy 240.03 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9564371-fac1-4379-a029-757e023968ef")
+	)
+	(bus
+		(pts
+			(xy 259.08 57.15) (xy 240.03 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2248437-f316-4abe-9132-14d4c0770055")
+	)
+	(bus
+		(pts
+			(xy 250.19 95.25) (xy 250.19 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7b2e8be-a4b1-4007-997a-5105511f62b0")
+	)
+	(bus
+		(pts
+			(xy 243.84 102.87) (xy 256.54 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d79d5e4d-ef35-4299-ba3f-851531977440")
+	)
+	(bus
+		(pts
+			(xy 254 62.23) (xy 240.03 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6c4d669-717f-4da9-be87-dfde327f0c7b")
+	)
+	(wire
+		(pts
+			(xy 139.7 100.33) (xy 147.32 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e88e0cf2-6e2c-4c85-9721-96b10bccb459")
+	)
+	(bus
+		(pts
+			(xy 243.84 109.22) (xy 259.08 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb1dc0c5-7451-41a0-b23e-0846810b49ee")
+	)
+	(wire
+		(pts
+			(xy 147.32 57.15) (xy 203.2 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3d45c78-b8cf-4c7c-ab58-87efe6378a50")
+	)
+	(sheet
+		(at 203.2 50.8)
+		(size 36.83 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8710b647-1723-4317-be5a-33e426fec813")
+		(property "Sheetname" "Peripherals"
+			(at 203.2 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 203.2 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO_D[2..4]" input
+			(at 240.03 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6dedc9c8-f299-4c02-b99a-9ce10f33b045")
+		)
+		(pin "EX_RST" input
+			(at 240.03 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "983ce4a6-1742-464b-8f09-846c1afea108")
+		)
+		(pin "GPIO_C[0..5]" input
+			(at 240.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fbbf019b-ed0a-422f-a600-74f0fa7f4977")
+		)
+		(pin "GPIO_B[0..1]" input
+			(at 240.03 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "22fc697f-b182-4df9-924c-ee13494877d6")
+		)
+		(pin "I2C{SDA,SDL}" input
+			(at 240.03 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "308f0006-edf1-4be9-8d03-bd038fbfdd0b")
+		)
+		(pin "SPI{SS,MOSI,MISO,SCK}" input
+			(at 240.03 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a0804c41-bef6-4c29-88e0-3a127154306c")
+		)
+		(pin "PWRU_IN" input
+			(at 203.2 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0a0ac57d-6186-4d78-a36b-0039709bf579")
+		)
+		(pin "USART{RXD,TXD}" input
+			(at 203.2 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4852d3b0-2495-440b-aa69-7a338ebc4f80")
+		)
+		(instances
+			(project "intro_to_PCB"
+				(path "/0d3b5cc8-796e-4bf6-9981-31f427beb9c4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 90.17)
+		(size 39.37 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9eabf57d-2f76-442a-858d-1ba2dd3e6e8d")
+		(property "Sheetname" "MCU"
+			(at 204.47 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 204.47 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPI{SS,MOSI,MISO,SCK}" input
+			(at 243.84 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c7ccfa96-0611-4a10-82f3-32fc253cd522")
+		)
+		(pin "I2C{SDA,SDL}" input
+			(at 243.84 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "55dfe61e-0431-4034-941e-47759571c18c")
+		)
+		(pin "EX_RST" input
+			(at 243.84 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3e75127a-7390-42c9-86a3-89a7547d244d")
+		)
+		(pin "GPIO_D[2..4]" input
+			(at 243.84 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2b08614b-577f-4e1f-b477-9b3cca658c38")
+		)
+		(pin "GPIO_B[0..1]" input
+			(at 243.84 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6688ddd1-e0e9-446c-994d-b46b67609234")
+		)
+		(pin "GPIO_C[0..5]" input
+			(at 243.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b0dfba54-8fcc-4c3f-9479-f9b588be73b4")
+		)
+		(pin "USART{RXD,TXD}" input
+			(at 204.47 100.33 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d12564ec-496c-488b-9f2f-07b437d64d5c")
+		)
+		(instances
+			(project "intro_to_PCB"
+				(path "/0d3b5cc8-796e-4bf6-9981-31f427beb9c4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 93.98)
+		(size 31.75 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f3630956-a709-48a8-8ff4-7663ef5f2d7d")
+		(property "Sheetname" "PSU"
+			(at 107.95 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "psuschematic.kicad_sch"
+			(at 107.95 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USBC_D{N,P}" input
+			(at 139.7 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f1782a0c-bdda-4dd4-b5a2-339fd7140118")
+		)
+		(pin "PWRU_IN" input
+			(at 139.7 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "40410d47-0933-4342-8f97-844b3363033e")
+		)
+		(instances
+			(project "intro_to_PCB"
+				(path "/0d3b5cc8-796e-4bf6-9981-31f427beb9c4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 90.17)
+		(size 43.18 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd577bd5-55f9-49e9-9d6d-77a87a526084")
+		(property "Sheetname" "USB to UART"
+			(at 156.21 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usbtouart.kicad_sch"
+			(at 156.21 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USBC_D{N,P}" input
+			(at 156.21 104.14 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b3082903-5121-4a66-89c7-b5d4f22602b8")
+		)
+		(pin "USART{RXD,TXD}" input
+			(at 199.39 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "97061e3f-32d1-4591-bc90-37469d397f37")
+		)
+		(instances
+			(project "intro_to_PCB"
+				(path "/0d3b5cc8-796e-4bf6-9981-31f427beb9c4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
