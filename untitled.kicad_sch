@@ -1783,14 +1783,6 @@
 		(color 0 0 0 0)
 		(uuid "dba13001-943b-40d1-b8a8-a36cb45a0fd4")
 	)
-	(no_connect
-		(at 86.36 49.53)
-		(uuid "30c30781-c90f-490f-a6b2-73f26acc1f0d")
-	)
-	(no_connect
-		(at 86.36 46.99)
-		(uuid "a82302a9-d317-4388-98c0-b5f440fdd9ae")
-	)
 	(wire
 		(pts
 			(xy 161.29 142.24) (xy 161.29 137.16)
@@ -2956,6 +2948,28 @@
 			)
 		)
 	)
+	(global_label "GPIO_B1"
+		(shape input)
+		(at 86.36 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "531d1fd3-f734-4dc1-b308-b4a6e3d14dc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.2676 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI_SS"
 		(shape input)
 		(at 86.36 52.07 0)
@@ -3325,6 +3339,28 @@
 			)
 		)
 	)
+	(global_label "GPIO_B0"
+		(shape input)
+		(at 86.36 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d54afb3e-6565-4442-979c-85e58686344c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.2676 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO_C0"
 		(shape input)
 		(at 86.36 69.85 0)
@@ -3537,7 +3573,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 82.55 36.83 0)
 			(effects
 				(font
@@ -3673,7 +3709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 155.9052 46.99 0)
 			(effects
 				(font
@@ -3943,7 +3979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 159.512 133.35 90)
 			(effects
 				(font
@@ -4275,7 +4311,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 214.63 30.48 0)
 			(effects
 				(font
@@ -4842,7 +4878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 169.672 133.35 90)
 			(effects
 				(font
@@ -4912,7 +4948,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering"
 			(at 181.61 85.09 0)
 			(effects
 				(font
@@ -4982,7 +5018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 108.712 80.01 90)
 			(effects
 				(font
@@ -5118,7 +5154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 172.4152 46.99 0)
 			(effects
 				(font
@@ -5188,7 +5224,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 164.592 85.09 90)
 			(effects
 				(font
